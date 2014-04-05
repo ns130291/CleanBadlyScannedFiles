@@ -11,6 +11,10 @@ Cleans up B/W pictures
 usage
 -----
     java -jar CleanBadlyScannedFiles.jar [filename]
+    
+download
+--------
+[CleanBadlyScannedFiles.jar](../master/dist/CleanBadlyScannedFiles.jar)
 
 patterns
 --------
