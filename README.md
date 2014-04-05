@@ -14,7 +14,7 @@ usage
     
 download
 --------
-[CleanBadlyScannedFiles.jar](../raw/master/dist/CleanBadlyScannedFiles.jar)
+[CleanBadlyScannedFiles.jar](../../raw/master/dist/CleanBadlyScannedFiles.jar)
 
 patterns
 --------
