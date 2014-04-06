@@ -25,3 +25,7 @@ Value  | Color
 0  | White
 1  | Black
 -1 | Any
+
+license
+-------
+GPLv3
